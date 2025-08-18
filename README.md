@@ -1,6 +1,6 @@
 👋 Hi, I’m Dhaksita Rajendran
 
-🎓 Pursuing B.Tech in Computer Science and Engineering at Karpagam College of Engineering, Coimbatore.
+🎓 Pursuing B.E in Computer Science and Engineering at Karpagam College of Engineering, Coimbatore.
 💻 Passionate about AI, Quantum Computing, IoT, and Game Development.
 🚀 Experienced in building innovative solutions like:
 
