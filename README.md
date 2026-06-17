@@ -99,8 +99,8 @@ public class Developer {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhaksita&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaksita&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhaksitarajendran&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaksitarajendran&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
 
 </div>
 
@@ -110,7 +110,7 @@ public class Developer {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=dhaksita&theme=tokyonight&hide_border=true&mode=weekly" />
+<img src="https://streak-stats.demolab.com?user=dhaksitarajendran&theme=tokyonight&hide_border=true&mode=weekly" />
 
 </div>
 
@@ -120,7 +120,7 @@ public class Developer {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhaksita&theme=tokyo-night&bg_color=0d1117&color=a855f7&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhaksitarajendran&theme=tokyo-night&bg_color=0d1117&color=a855f7&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -149,8 +149,8 @@ public class Developer {
 
 | Project | Stack | Highlights |
 |:---|:---|:---|
-| [**🌪️ Disaster Mitigation and Prediction**](https://github.com/dhaksita) | `Python` `TensorFlow` `AWS` `MongoDB` | Real-time disaster mitigation system using predictive modeling and IoT-based early warning mechanisms with AI/ML models |
-| [**🚗 Shine Ride — Online Car Wash Management System**](https://github.com/dhaksita) | `React.js` | Responsive single-page web application with service selection, pricing, and booking workflows |
+| [**🌪️ Disaster Mitigation and Prediction**](https://github.com/dhaksitarajendran) | `Python` `TensorFlow` `AWS` `MongoDB` | Real-time disaster mitigation system using predictive modeling and IoT-based early warning mechanisms with AI/ML models |
+| [**🚗 Shine Ride — Online Car Wash Management System**](https://github.com/dhaksitarajendran) | `React.js` | Responsive single-page web application with service selection, pricing, and booking workflows |
 
 </div>
 
@@ -207,8 +207,8 @@ public class Developer {
 
 ### 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhaksita)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dhaksita)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhaksitarajendran)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dhaksitarajendran)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dhaksitarajendran@gmail.com)
 
 *"Design with purpose. Build with clarity. Ship with confidence."*
