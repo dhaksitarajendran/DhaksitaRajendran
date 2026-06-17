@@ -99,7 +99,8 @@ public class Developer {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhaksita&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhaksita&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaksita&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
 
 </div>
 
@@ -109,7 +110,7 @@ public class Developer {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=dhaksita&theme=tokyonight&hide_border=true&start_year=2024" />
+<img src="https://streak-stats.demolab.com?user=dhaksita&theme=tokyonight&hide_border=true&mode=weekly" />
 
 </div>
 
@@ -119,7 +120,7 @@ public class Developer {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhaksita&theme=tokyo-night&bg_color=0d1117&color=a855f7&line=bf91f3&point=38bdae&area=true&hide_border=true&from=2024-01-01" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhaksita&theme=tokyo-night&bg_color=0d1117&color=a855f7&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 
 </div>
 
