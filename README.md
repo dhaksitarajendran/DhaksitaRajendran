@@ -31,7 +31,6 @@ public class Developer {
 
     private final String[] currentlyLearning = {
         "AI/ML & Predictive Modeling",
-        "Cloud Computing (AWS)",
         "Advanced UI/UX Design"
     };
 
@@ -110,7 +109,7 @@ public class Developer {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=dhaksita&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=dhaksita&theme=tokyonight&hide_border=true&start_year=2024" />
 
 </div>
 
@@ -120,7 +119,7 @@ public class Developer {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhaksita&theme=tokyo-night&bg_color=0d1117&color=a855f7&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhaksita&theme=tokyo-night&bg_color=0d1117&color=a855f7&line=bf91f3&point=38bdae&area=true&hide_border=true&from=2024-01-01" width="100%"/>
 
 </div>
 
@@ -159,10 +158,13 @@ public class Developer {
 ## 🏅 Achievements & Certifications
 
 * 🎓 **CGPA 8.5 / 10.0** – B.E. Computer Science and Design
-* 🏆 **Event Coordinator** – Dhruva 2025 Technical Events
+* 🏆 **Idea Fusion 2024 Winner** – 1st Prize at Karpagam Innovation Centre
+* 🎯 **Event Coordinator** – Dhruva 2025 Technical Events
 * 💼 **MSME 5.0** – Coordinated entrepreneurial sessions
+* 💻 **Web Development Intern** – Elysium Academy
 * 🌐 **Responsive Web Design Certification** – FreeCodeCamp
 * 🎨 **Web Design Certification** – Elysium Academy
+* 📚 **Professional Certifications** – ICT Academy, NPTEL & Industry Courses
 * ☁️ **AWS Academy Cloud Foundations Certification**
 
 ---
@@ -174,7 +176,7 @@ public class Developer {
 | Degree | Institution | Period | Score |
 |:---|:---|:---:|:---:|
 | 🎓 B.E. Computer Science and Design | Karpagam College of Engineering, Coimbatore | 2023 – Present | **8.5 / 10.0 CGPA** |
-| 📘 Higher Secondary (Computer Science) | Sri Balaji Vidhyalaya Matric Higher Secondary School, Trichy | 2022 – 2023 | — |
+| 📘 Higher Secondary (Computer Science) | P. R. Sidha Naidu Memorial Matric Higher Secondary School, Trichy | 2022 – 2023 | **85.6%** |
 
 </div>
 
@@ -184,7 +186,6 @@ public class Developer {
 
 ```
 🧠 AI & Machine Learning    →  Predictive Modeling, TensorFlow, Neural Networks
-☁️  Cloud Computing          →  AWS Services, Cloud Architecture, Deployment
 🎨 Advanced UI/UX           →  Interaction Design, Prototyping, Design Systems
 🌐 Full Stack Web Dev        →  Spring Boot, React, RESTful APIs
 📊 Data Visualization        →  Power BI, Analytics Dashboards
