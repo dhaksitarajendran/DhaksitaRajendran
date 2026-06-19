@@ -186,7 +186,7 @@ public class Developer {
 | Degree | Institution | Period | Score |
 |:---|:---|:---:|:---:|
 | 🎓 B.E. Computer Science and Design | Karpagam College of Engineering, Coimbatore | 2023 – Present | **8.5 / 10.0 CGPA** |
-| 📘 Higher Secondary (Computer Science) | P. R. Sidha Naidu Memorial Matric Higher Secondary School, Trichy | 2022 – 2023 | **85.6%** |
+| 📘 Higher Secondary (Computer Science) | P. R. Sidha Naidu Memorial Matric Higher Secondary School, Coimbatore | 2022 – 2023 | **85.6%** |
 
 </div>
 
