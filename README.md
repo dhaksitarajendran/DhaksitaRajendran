@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:A855F7&text=Dhaksita%20R&fontColor=FFFFFF&fontSize=50&animation=twinkling&fontAlignY=38&desc=CS%20and%20Design%20Student%20-%20Web%20Developer%20-%20UI%20UX%20Designer&descAlignY=58&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:A855F7&text=Dhaksita%20R&fontColor=FFFFFF&fontSize=50&animation=twinkling&fontAlignY=38&desc=CS%20and%20Design%20Student%20-%20Full%20Stack%20Developer%20-%20UI%20UX%20Designer&descAlignY=58&descSize=22" width="100%"/>
 
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Dhaksita+R+%F0%9F%91%8B;Computer+Science+and+Design+Student;Web+Developer+%F0%9F%9A%80;UI%2FUX+Designer+%F0%9F%8E%A8;Passionate+About+Building+User-Focused+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Dhaksita+R+%F0%9F%91%8B;Computer+Science+and+Design+Student;Full+Stack+Developer+%F0%9F%9A%80;UI%2FUX+Designer+%F0%9F%8E%A8;Passionate+About+Building+User-Focused+Solutions" alt="Typing SVG" />
 </p>
 
 </div>
